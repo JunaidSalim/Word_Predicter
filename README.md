@@ -1,5 +1,5 @@
 # Word_Predicter_Cpp
- Program developed in Cpp that will recommend new word to user based onfrequency of his previously entered words.
+ Program developed in C++ that will recommend new word to user based onfrequency of his previously entered words.
  
 **Approach:**
 This C++ program implements a real-time text input recommendation system based on the frequency of previously entered words. It provides word suggestions as the user types, allowing for efficient and personalized text input.
